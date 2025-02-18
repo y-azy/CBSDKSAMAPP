@@ -98,5 +98,6 @@ export const chipOptions = [
   "Astral Time Lapse",
   "Cybernetic Coral Reef",
   "Galactic Dreamcatcher",
-  "CDP @Devcon"
+  "CDP @Devcon",
+  "Toby Toad God"
 ];
